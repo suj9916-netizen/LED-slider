@@ -53,7 +53,8 @@ p5.js에서는 받은 값을 화면의 막대와 숫자로 표시한다.
 ```text
 Arduino D9 → 저항 → LED (+)
 LED (-) → GND
-<img width="717" height="427" alt="image" src="https://github.com/user-attachments/assets/a3016511-fe26-4d2f-804f-e28e334ee056" />
+
+<img width="719" height="430" alt="111111" src="https://github.com/user-attachments/assets/1c4c1d59-08f8-485f-b807-d694ffe5aaae" />
 
 ```
 
@@ -246,7 +247,17 @@ Serial.println(potValue);
 
 ---
 
-## 7. 고찰
+## 7. 결과
+
+
+
+https://github.com/user-attachments/assets/75ae3bd6-1661-49f0-9f7e-34f79af74b5e
+
+
+
+
+
+## 8. 고찰
 
 처음에는 p5.js에서 슬라이더 값만 보내면 LED 밝기가 바로 변할 것이라고 생각했지만, Arduino에서도 전달받은 값을 처리해서 PWM 출력으로 바꿔주는 코드가 필요했다.
 
