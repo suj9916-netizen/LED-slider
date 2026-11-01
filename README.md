@@ -54,10 +54,9 @@ p5.js에서는 받은 값을 화면의 막대와 숫자로 표시한다.
 Arduino D9 → 저항 → LED (+)
 LED (-) → GND
 
-<img width="719" height="430" alt="111111" src="https://github.com/user-attachments/assets/1c4c1d59-08f8-485f-b807-d694ffe5aaae" />
 
 ```
-
+<img width="719" height="430" alt="111111" src="https://github.com/user-attachments/assets/1c4c1d59-08f8-485f-b807-d694ffe5aaae" />
 D9는 PWM 출력이 가능한 핀이므로 LED의 밝기를 조절할 수 있다.
 
 ### 가변저항
