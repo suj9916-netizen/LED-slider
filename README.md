@@ -57,6 +57,7 @@ LED (-) → GND
 
 ```
 <img width="719" height="430" alt="111111" src="https://github.com/user-attachments/assets/1c4c1d59-08f8-485f-b807-d694ffe5aaae" />
+
 D9는 PWM 출력이 가능한 핀이므로 LED의 밝기를 조절할 수 있다.
 
 ### 가변저항
